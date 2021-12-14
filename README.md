@@ -30,5 +30,5 @@ IRNecFactory.create(16,32,3);;
 ```
 
 # Screenshots
-![Example](https://raw.githubusercontent.com/ZoserLock/android-ir-remote/master/images/image.png)
+![Example](https://raw.githubusercontent.com/Romaxa55/IrRemoteControlHome/master/images/image.png)
 
